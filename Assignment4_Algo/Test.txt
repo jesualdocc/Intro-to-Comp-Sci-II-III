@@ -1,0 +1,12 @@
+Number of Runways: 1
+AircraftID	ArrivalTime		LandingPriority		TimeLanded
+
+Republic719		5		6			5
+AeroviasDelSur3543		6		16			6
+Yakutsk7100		7		16			7
+Eastern8394		7		24			8
+PanAm305		9		27			9
+Eurojet4966		9		49			10
+AirGreatWall4022		10		64			11
+Braniff4534		7		66			12
+Mesaba225		7		76			13
